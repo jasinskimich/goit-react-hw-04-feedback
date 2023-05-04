@@ -1,0 +1,14 @@
+.feedback-options {
+  margin: 10px auto;
+}
+.options-button {
+  margin: 5px;
+  padding: 6px 20px;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.button-grey {
+  composes: options-button;
+  color: rgb(94, 93, 96);
+}
+
